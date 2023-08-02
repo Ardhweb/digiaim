@@ -38,6 +38,6 @@ Navigate to the project directory and run the command python manage.py runserver
 
 This will start the Django development server. 
 
-You can now access the project in your web browser at http://localhost:8000.
+You can now access the project in your web browser at http://127.0.0.1:8000/api/invoices.
 
 If you run into any problems, check the prerequisites, make sure you've activated the virtual environment, and check the requirements.txt file. You can also check the Django documentation for troubleshooting tips.
